@@ -101,4 +101,7 @@ Nilai a tidak boleh 0
 
 ## screenshot hasil running
 
-[link ke laporan]
+![Screenshot (8)](https://user-images.githubusercontent.com/49512717/56498496-27127c00-652c-11e9-98f3-2543414725d4.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/49512717/56498499-2974d600-652c-11e9-882b-65f5918f0592.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/49512717/56498502-2bd73000-652c-11e9-8554-04d315a4386d.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/49512717/56498503-2c6fc680-652c-11e9-8a83-22f003fb2d84.png)
